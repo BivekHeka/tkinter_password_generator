@@ -1,10 +1,14 @@
 {
-    "skype": {
+    "java": {
         "email": "dummy@email.com",
-        "password": "kc80_qEbaML#@59"
+        "password": "n7!F4w8k)2Jnjw+"
     },
-    "twitter": {
+    "python": {
         "email": "dummy@email.com",
-        "password": "3r93Nl9#BK#V_Pe"
+        "password": "bh55^h1#O3PKS%p"
+    },
+    "react": {
+        "email": "dummy@email.com",
+        "password": "l7jfN5@W-$5XJE4"
     }
 }
